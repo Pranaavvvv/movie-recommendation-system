@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: movie-recommendation-system
+Version: 0.0.1
+Summary: Movie Recommendation System
+Author: Pranav Dharwadkar
+Author-email: pranav.djsce24@gmail.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+Movie recommendation System
+
