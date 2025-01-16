@@ -1,2 +1,2 @@
 streamlit
-# Add other dependencies here
+dotenv
